@@ -8,8 +8,9 @@ header{
 }
 h1{
   line-height: 200%;
-  text-align: left;
+  text-align: center;
 }
+
 nav{
   font-weight: bold;
   font-size: 1.25em;
@@ -17,9 +18,9 @@ nav{
   text-align: center;
 }
 img {
-  border-left: 10px;
-  width: 600px;
-  height: 400px;
+  width: 800px;
+  height: 600 px;
+  padding-left: 250px;
 }
 footer{
   background-color: #FF0000;
