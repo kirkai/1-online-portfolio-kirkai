@@ -1,0 +1,35 @@
+body{background-color: #A4A4A4;
+  color: #FFFFFF;
+  font-family: Arial, Verdana, sans-serif;
+}
+header{
+  background-color: #FF0000;
+  text-align: center;
+}
+h1{
+  line-height: 200%;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+nav{
+  font-weight: bold;
+  font-size: 1.25em;
+  word-spacing: 1em;
+  text-align: center;
+}
+img {
+  width: 800px;
+  height: 600 px;
+  padding-left: 250px;
+}
+footer{
+  background-color: #FF0000;
+  font-size: .75em;
+  text-align: center;
+}	
+#wrappers{width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
